@@ -1,0 +1,14 @@
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\bin\Debug\net9.0\Sistema-Hospedagem.exe
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\bin\Debug\net9.0\Sistema-Hospedagem.deps.json
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\bin\Debug\net9.0\Sistema-Hospedagem.runtimeconfig.json
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\bin\Debug\net9.0\Sistema-Hospedagem.dll
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\bin\Debug\net9.0\Sistema-Hospedagem.pdb
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\obj\Debug\net9.0\Sistema-Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\obj\Debug\net9.0\Sistema-Hospedagem.AssemblyInfoInputs.cache
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\obj\Debug\net9.0\Sistema-Hospedagem.AssemblyInfo.cs
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\obj\Debug\net9.0\Sistema-Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\obj\Debug\net9.0\Sistema-Hospedagem.dll
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\obj\Debug\net9.0\refint\Sistema-Hospedagem.dll
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\obj\Debug\net9.0\Sistema-Hospedagem.pdb
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\obj\Debug\net9.0\Sistema-Hospedagem.genruntimeconfig.cache
+C:\Users\nadir\Dio\.NET\Sistema-Hospedagem\obj\Debug\net9.0\ref\Sistema-Hospedagem.dll
