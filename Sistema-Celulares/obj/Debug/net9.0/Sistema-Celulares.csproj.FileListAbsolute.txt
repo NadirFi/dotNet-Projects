@@ -1,0 +1,14 @@
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\bin\Debug\net9.0\Sistema-Celulares.exe
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\bin\Debug\net9.0\Sistema-Celulares.deps.json
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\bin\Debug\net9.0\Sistema-Celulares.runtimeconfig.json
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\bin\Debug\net9.0\Sistema-Celulares.dll
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\bin\Debug\net9.0\Sistema-Celulares.pdb
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\obj\Debug\net9.0\Sistema-Celulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\obj\Debug\net9.0\Sistema-Celulares.AssemblyInfoInputs.cache
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\obj\Debug\net9.0\Sistema-Celulares.AssemblyInfo.cs
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\obj\Debug\net9.0\Sistema-Celulares.csproj.CoreCompileInputs.cache
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\obj\Debug\net9.0\Sistema-Celulares.dll
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\obj\Debug\net9.0\refint\Sistema-Celulares.dll
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\obj\Debug\net9.0\Sistema-Celulares.pdb
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\obj\Debug\net9.0\Sistema-Celulares.genruntimeconfig.cache
+C:\Users\nadir\Dio\.NET\Sistema-Celulares\obj\Debug\net9.0\ref\Sistema-Celulares.dll
